@@ -1,5 +1,5 @@
 /**
-* Template Name: Moderna - v4.10.0
+* Template Name: Team 188 -v 1.0.14
 * Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #4fa6d5;
+  color: #d21f1c;
   text-decoration: none;
 }
 
 a:hover {
-  color: #45beff;
+  color: #c70404;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ h6,
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #68A4C4;
+  background: #b81c1c;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -74,7 +74,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #1e4356;
+  background: #b81c1c;
 }
 
 #header.header-transparent {
@@ -82,7 +82,7 @@ h6,
 }
 
 #header.header-scrolled {
-  background: rgba(30, 67, 86, 0.8);
+  background: #b81c1c;
   height: 60px;
 }
 
@@ -158,7 +158,7 @@ h6,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #a2cce3;
+  color: #000000;
 }
 
 .navbar .dropdown ul {
@@ -282,13 +282,13 @@ h6,
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #1e4356;
+  color: #b81c1c;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #68A4C4;
+  color: #b81c1c;
 }
 
 .navbar-mobile .getstarted,
@@ -323,7 +323,7 @@ h6,
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #68A4C4;
+  color: #b81c1c;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -347,7 +347,7 @@ h6,
   top: 0;
   width: 130%;
   height: 95%;
-  background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/hero-bg.jpg") center top no-repeat;
+  background: linear-gradient(to right, rgba(243, 68, 68, 0.8), rgba(122, 22, 16, 0.6)), url("../img/hero-bg.jpg") center top no-repeat;
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
@@ -360,7 +360,7 @@ h6,
   top: 0;
   width: 130%;
   height: 96%;
-  background: #68A4C4;
+  background: #b81c1c;
   opacity: 0.3;
   z-index: 0;
   border-radius: 0 0 50% 50%;
@@ -426,7 +426,7 @@ h6,
 }
 
 #hero .btn-get-started:hover {
-  background: #68A4C4;
+  background: #b81c1c;
   color: #fff;
   text-decoration: none;
 }
@@ -585,7 +585,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #68A4C4;
+  background: rgb(168, 50, 50)3f;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -2174,7 +2174,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #0b212d;
+  background: rgb(169, 24, 41);
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -2182,7 +2182,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #0d2735;
+  background: #8c1515;
 }
 
 #footer .footer-newsletter h4 {
@@ -2229,9 +2229,9 @@ section {
 }
 
 #footer .footer-top {
-  background: #0d2735;
-  border-top: 1px solid #17455e;
-  border-bottom: 1px solid #123649;
+  background: rgb(188, 32, 51);
+  border-top: 1px solid #710101;
+  border-bottom: 1px solid #710101;
   padding: 60px 0 30px 0;
 }
 
@@ -2244,7 +2244,7 @@ section {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  color: #a2cce3;
+  color: #000000;
   font-weight: 600;
 }
 
@@ -2259,7 +2259,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #1e4356;
+  background: #7b0606;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -2280,7 +2280,7 @@ section {
 #footer .footer-top h4 {
   font-size: 18px;
   font-weight: 600;
-  color: #a2cce3;
+  color: #000000;
   position: relative;
   padding-bottom: 12px;
 }
