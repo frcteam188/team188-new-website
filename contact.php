@@ -1,5 +1,4 @@
 <?php
-  // Replace contact@example.com with your real receiving email address
   $receiving_email_address = 'aryan.patel2@student.tdsb.on.ca';
 
   if( file_exists($php_email_form = '../vendor/php-email-form/php-email-form.php' )) {
