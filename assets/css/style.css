@@ -2268,9 +2268,15 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
+<<<<<<< HEAD
   color: #fff;  
   /*margin-left: 30px;
   margin-right: 25px;*/
+=======
+  color: #fff;
+  margin-left: 30px;
+  margin-right: 25px;
+>>>>>>> fc2ce0c5a22d0e50a6a2b33c17bd167013f8b840
   text-align: center;
 }
 
@@ -2287,14 +2293,25 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
+<<<<<<< HEAD
   margin:1%;
+=======
+  margin-left: 65px;
+  margin-right: -55px;
+>>>>>>> fc2ce0c5a22d0e50a6a2b33c17bd167013f8b840
 }
 
 #footer .footer-top .social-links a:hover {
   background: #68A4C4;
   color: #fff;
   text-decoration: none;
+<<<<<<< HEAD
   align-items: center;
+=======
+  margin-left: 65px;
+  margin-right: -55px;
+  text-align: center;
+>>>>>>> fc2ce0c5a22d0e50a6a2b33c17bd167013f8b840
 }
 
 #footer .footer-top h4 {
