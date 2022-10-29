@@ -2248,7 +2248,8 @@ section {
 
 #footer .footer-top .footer-info {
   margin-bottom: 30px;
-  margin-left: 30px;
+
+ 
 }
 
 /*#footer .footer-top .footer-info h3 {
@@ -2267,34 +2268,33 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
-  color: #fff;
-  margin-left: 30px;
-  margin-right: -25px;
+  color: #fff;  
+  /*margin-left: 30px;
+  margin-right: 25px;*/
+  text-align: center;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
-  display: inline-block;
+  display:inline-block;
   background: #7b0606;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
-  margin-right: 4px;
   border-radius: 50%;
   text-align: center;
+  align-items: center;
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  margin-left: 30px;
-  margin-right: -20px;
+  margin:1%;
 }
 
 #footer .footer-top .social-links a:hover {
   background: #68A4C4;
   color: #fff;
   text-decoration: none;
-  margin-left: 30px;
-  margin-right: -20px;
+  align-items: center;
 }
 
 #footer .footer-top h4 {
@@ -2302,7 +2302,7 @@ section {
   font-weight: 600;
   color: #000000;
   position: relative;
-  padding-bottom: 12px;
+  padding-bottom: 10px;
   text-align: center;
 }
 
@@ -2329,11 +2329,12 @@ section {
 
 #footer .footer-top .footer-links ul li {
   padding: 10px 0;
-  display: block;
+  display:list-item;
   align-items: center;
-  text-align: left;
-  margin-left:150px;
-  margin-right: -140px;
+  text-align: center;
+  margin: auto;
+  /*margin-left:150px;
+  margin-right: -140px;*/
 }
 
 #footer .footer-top .footer-links ul li:first-child {
@@ -2353,7 +2354,7 @@ section {
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
-  margin-right: 20px;
+ 
 }
 
 #footer .footer-top .footer-contact p {
