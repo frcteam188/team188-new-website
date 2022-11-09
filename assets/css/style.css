@@ -1522,7 +1522,9 @@ section {
   font-size: 18px;
 }
 
-
+.btn-danger {
+  background-color: #b7282b ;
+}
 
 /*--------------------------------------------------------------
 # Contact
