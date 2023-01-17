@@ -1457,6 +1457,10 @@ section {
   overflow: hidden;
 }
 
+.team.member:hover {
+  background: pink;
+}
+
 .team .member .social {
   position: absolute;
   left: 0;
