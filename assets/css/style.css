@@ -1447,6 +1447,9 @@ section {
   padding-bottom: 30px;
 }
 
+.team h1{
+  text-align: center;
+}
 .team .member {
   margin-bottom: 20px;
   overflow: hidden;
@@ -2318,6 +2321,17 @@ section {
 #footer .footer-top .footer-links {
   margin-bottom: 30px;
   
+}
+
+#footer .footer-top .footer-links p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  font-family: "Roboto", sans-serif;
+  color: #fff;  
+  /*margin-left: 30px;
+  margin-right: 25px;*/
+  text-align: center;
 }
 
 #footer .footer-top .footer-links ul {
