@@ -95,14 +95,15 @@ h6,
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #fff;
+  color: #000000;
   text-decoration: none;
 }
 
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 52.5px;
+
 }
 
 #main {
@@ -136,7 +137,7 @@ h6,
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
+  padding: 20px 0 20px 50px;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   color: rgb(0, 0, 0);
@@ -146,7 +147,7 @@ h6,
 
 .navbar a i,
 .navbar a:focus i {
-  font-size: 12px;
+  font-size: 32px;
   line-height: 0;
   margin-left: 5px;
 }
@@ -162,7 +163,7 @@ h6,
   display: block;
   position: absolute;
   left: 14px;
-  top: calc(100% + 30px);
+  top: calc(100% + 100px);
   margin: 0;
   padding: 10px 0;
   z-index: 99;
